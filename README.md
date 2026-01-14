@@ -89,7 +89,7 @@ https://github.com/tesseract-ocr/tesseract
 ## Project Structure
 image-text-speech-converter/
 │
-├── converter.py
+├── converter11.py
 ├── _bg_.jpg
 ├── README.md
 
